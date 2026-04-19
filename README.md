@@ -1,3 +1,4 @@
+```
 M: neural network reverse 8 characters example
 G: "A common example of a neural network reversing characters is a Recurrent Neural Network (RNN) or a Sequence-to-Sequence (Seq2Seq) model trained to reverse strings. For an 8-character input like "abcdefgh", the network learns to map it to the target "hgfedcba"."
 G: ...
@@ -264,3 +265,4 @@ Pos 4:  [a: 5.8%]  [m: 5.8%]  [c: 5.8%]
 Pos 5:  [v: 5.8%]  [r: 5.8%]  [x: 5.8%]
 Pos 6:  [a: 6.2%]  [c: 6.2%]  [d: 6.2%]
 Pos 7:  [n: 5.4%]  [y: 5.4%]  [c: 5.4%]
+```
