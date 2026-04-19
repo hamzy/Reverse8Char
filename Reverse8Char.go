@@ -9,6 +9,8 @@
  * to the extent allowed by law.
  */
 
+// https://share.google/aimode/7VvT09F5IOnQtqu7Z
+
 // $ go mod init example.com/Reverse8Char/v2
 // $ go mod tidy
 // $ go build
