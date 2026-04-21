@@ -15,11 +15,6 @@
 // $ go mod tidy
 // $ go build
 
-/*
- * This work is marked with CC0 1.0 Universal.
- * http://creativecommons.org
- */
-
 package main
 
 import (
