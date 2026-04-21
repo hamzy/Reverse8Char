@@ -9,7 +9,7 @@
  * to the extent allowed by law.
  */
 
-// https://share.google/aimode/7VvT09F5IOnQtqu7Z
+// https://share.google/aimode/9e5buPay7Ox1OqUks
 
 // $ go mod init example.com/Reverse8Char/v2
 // $ go mod tidy
